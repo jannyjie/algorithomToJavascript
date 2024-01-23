@@ -13,3 +13,8 @@
 ## 分析演算法
 Is it important to compare algorithme?
 If two different algorithms can accomplish the same task, then why do we care about which one is better?
+
+
+## 如何判別好的演算法
+1. 演算法數度快
+2. 占用電腦記憶體資源少
